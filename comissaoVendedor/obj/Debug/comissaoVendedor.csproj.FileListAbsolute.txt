@@ -1,0 +1,10 @@
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\bin\Debug\comissaoVendedor.exe.config
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\bin\Debug\comissaoVendedor.exe
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\bin\Debug\comissaoVendedor.pdb
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.csproj.AssemblyReference.cache
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.Form1.resources
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.Properties.Resources.resources
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.csproj.GenerateResource.cache
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.csproj.CoreCompileInputs.cache
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.exe
+C:\TreinamentoC\comissaoVendedor\comissaoVendedor\obj\Debug\comissaoVendedor.pdb
